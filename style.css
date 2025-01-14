@@ -364,6 +364,4 @@ body {
     border-color: transparent var(--color);
     border-width: 50px 0px 50px 120px;
     filter: drop-shadow(5px 0 4px #00000094);
-    transform: rotatex(10deg);
-    transform-origin: center left;
 }
